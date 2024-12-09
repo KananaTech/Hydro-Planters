@@ -1,5 +1,5 @@
-# hydroCore
-Documentation and plans for hydroponic planters
+# Kanana Hydro-Planters
+Documentation and plans for Kanana's self contained ebb & flow hydroponic planters
 
 ## License
 
